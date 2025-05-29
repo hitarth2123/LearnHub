@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contribute - LearnHub</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="article.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        .steps {
+            counter-reset: step-counter;
+            margin: 2rem 0;
+        }
+        
+        .step {
+            position: relative;
+            padding-left: 60px;
+            margin-bottom: 2rem;
+            min-height: 50px;
+        }
+        
+        .step:before {
+            counter-increment: step-counter;
+            content: counter(step-counter);
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 40px;
+            height: 40px;
+            background-color: #3366cc;
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+        
+        .step h3 {
+            margin-top: 0;
+            margin-bottom: 0.5rem;
+            color: #222;
+        }
+        
+        .contribute-options {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .option-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        
+        .option-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .option-card i {
+            font-size: 2rem;
+            color: #3366cc;
+            margin-bottom: 1rem;
+            display: block;
+        }
+        
+        .option-card h3 {
+            margin-top: 0;
+            color: #222;
+        }
+        
+        .cta-section {
+            text-align: center;
+            padding: 3rem 1rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+            margin: 3rem 0;
+        }
+        
+        .cta-section h2 {
+            margin-top: 0;
+            color: #222;
+        }
+        
+        .cta-buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            margin-top: 1.5rem;
+            flex-wrap: wrap;
+        }
+        
+        .cta-buttons .btn {
+            min-width: 180px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <a href="index.html">
+                    <h1>Learn<span>Hub</span></h1>
+                    <p>The Free Encyclopedia</p>
+                </a>
+            </div>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search LearnHub">
+                <button id="searchButton"><i class="fas fa-search"></i></button>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#" id="randomArticle">Random Article</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contribute.html" class="active">Contribute</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="article-container">
+        <article>
+            <h1>Contribute to LearnHub</h1>
+            
+            <div class="article-meta">
+                <span>Last updated: May 29, 2025</span>
+            </div>
+
+            <div class="article-content">
+                <p>Welcome to the LearnHub community! Your contributions help make LearnHub a valuable resource for learners worldwide. Whether you're an expert in a particular field or just getting started, there are many ways to contribute.</p>
+                
+                <h2>Why Contribute?</h2>
+                <ul>
+                    <li>Share your knowledge with millions of learners worldwide</li>
+                    <li>Improve existing content and fix inaccuracies</li>
+                    <li>Help maintain the quality and reliability of information</li>
+                    <li>Be part of a global community of educators and learners</li>
+                    <li>Enhance your own understanding by teaching others</li>
+                </ul>
+                
+                <h2>How to Get Started</h2>
+                <div class="steps">
+                    <div class="step">
+                        <h3>Create an Account</h3>
+                        <p>Sign up for a free LearnHub account to start contributing. It only takes a minute!</p>
+                    </div>
+                    <div class="step">
+                        <h3>Complete the Tutorial</h3>
+                        <p>Take our quick tutorial to learn how to edit articles and follow our style guidelines.</p>
+                    </div>
+                    <div class="step">
+                        <h3>Make Your First Edit</h3>
+                        <p>Start with small improvements like fixing typos or adding citations to existing articles.</p>
+                    </div>
+                    <div class="step">
+                        <h3>Join the Community</h3>
+                        <p>Connect with other contributors, ask questions, and collaborate on projects.</p>
+                    </div>
+                </div>
+                
+                <h2>Ways to Contribute</h2>
+                <div class="contribute-options">
+                    <div class="option-card">
+                        <i class="fas fa-edit"></i>
+                        <h3>Edit Articles</h3>
+                        <p>Improve existing content by fixing errors, adding citations, or updating information.</p>
+                    </div>
+                    <div class="option-card">
+                        <i class="fas fa-plus-circle"></i>
+                        <h3>Create New Articles</h3>
+                        <p>Write new articles on topics that haven't been covered yet or need expansion.</p>
+                    </div>
+                    <div class="option-card">
+                        <i class="fas fa-camera"></i>
+                        <h3>Add Media</h3>
+                        <p>Upload or create images, diagrams, and other media to enhance articles.</p>
+                    </div>
+                    <div class="option-card">
+                        <i class="fas fa-language"></i>
+                        <h3>Translate</h3>
+                        <p>Help translate articles into different languages to make LearnHub accessible worldwide.</p>
+                    </div>
+                    <div class="option-card">
+                        <i class="fas fa-bug"></i>
+                        <h3>Report Issues</h3>
+                        <p>Let us know about any problems you find, from broken links to incorrect information.</p>
+                    </div>
+                    <div class="option-card">
+                        <i class="fas fa-hands-helping"></i>
+                        <h3>Mentor Others</h3>
+                        <p>Help new contributors learn the ropes and improve their editing skills.</p>
+                    </div>
+                </div>
+                
+                <h2>Content Guidelines</h2>
+                <p>To maintain quality and consistency, please follow these guidelines when contributing:</p>
+                <ul>
+                    <li>Write from a neutral point of view</li>
+                    <li>Provide reliable, verifiable sources for all factual claims</li>
+                    <li>Respect copyright and only use content that can be freely distributed</li>
+                    <li>Be respectful and collaborative with other contributors</li>
+                    <li>Avoid promotional content or advertising</li>
+                </ul>
+                
+                <div class="cta-section">
+                    <h2>Ready to Get Started?</h2>
+                    <p>Join our community of contributors today and help us create the world's most comprehensive learning resource.</p>
+                    <div class="cta-buttons">
+                        <a href="signup.html" class="btn primary">Sign Up Now</a>
+                        <a href="guidelines.html" class="btn secondary">Read Guidelines</a>
+                    </div>
+                </div>
+                
+                <h2>Need Help?</h2>
+                <p>If you have any questions or need assistance, please visit our <a href="help.html">Help Center</a> or contact our support team at <a href="mailto:support@learnhub.org">support@learnhub.org</a>.</p>
+            </div>
+        </article>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>LearnHub</h3>
+                <p>The Free Encyclopedia</p>
+            </div>
+            <div class="footer-section">
+                <h4>Navigation</h4>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contribute.html">Contribute</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Legal</h4>
+                <ul>
+                    <li><a href="terms.html">Terms of Use</a></li>
+                    <li><a href="privacy.html">Privacy Policy</a></li>
+                    <li><a href="cookies.html">Cookie Policy</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 LearnHub. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

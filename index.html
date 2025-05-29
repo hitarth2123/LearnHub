@@ -6,60 +6,95 @@
     <title>LearnHub - The Free Encyclopedia</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" type="image/png" href="./icon.png">
 </head>
 <body>
     <header>
-        <div class="container">
+        <div class="header-container">
             <div class="logo">
-                <h1><i class="fas fa-book-open"></i> LearnHub</h1>
+               <div class="logo-image"> <img src="./icon.png" alt="LearnHub Logo" width="50" height="50">
+                <h1>Learn<span>Hub</span></h1></div>
+                <p>The Free Encyclopedia</p>
+            </div>
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search LearnHub">
+                <button id="searchButton"><i class="fas fa-search"></i></button>
             </div>
             <nav>
-                <ul id="mainNav">
-                    <li><a href="#" class="active" data-page="home">Home</a></li>
-                    <!-- Dynamic navigation will be inserted here by JavaScript -->
+                <ul>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="#" id="randomArticle">Random Article</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contribute.html">Contribute</a></li>
                 </ul>
             </nav>
-            <div class="search-box">
-                <input type="text" id="searchInput" placeholder="Search LearnHub">
-                <button id="searchBtn"><i class="fas fa-search"></i></button>
-            </div>
         </div>
     </header>
 
-    <main class="container">
-        <div class="content-wrapper">
-            <article id="content">
-                <h1>Welcome to LearnHub</h1>
-                <p>Loading content...</p>
-            </article>
-            <aside class="sidebar">
-                <div class="card">
-                    <h3>Recent Changes</h3>
-                    <ul id="recentChanges">
-                        <li>Loading recent changes...</li>
-                    </ul>
-                </div>
-                <div class="card">
-                    <h3>Quick Links</h3>
-                    <ul id="quickLinks">
-                        <!-- Dynamic quick links will be inserted here by JavaScript -->
-                    </ul>
-                </div>
-            </aside>
+    <main>
+        <div class="welcome-section">
+            <h1>Welcome to <span>LearnHub</span></h1>
+            <p>The free encyclopedia that anyone can edit.</p>
+            <div class="welcome-buttons">
+                <button class="btn primary">Start Reading</button>
+                <button class="btn secondary">Create New Article</button>
+            </div>
+        </div>
+
+        <div class="featured-articles">
+            <h2>Featured Articles</h2>
+            <div class="article-grid" id="featuredArticles">
+                <!-- Articles will be loaded here by JavaScript -->
+            </div>
         </div>
     </main>
 
     <footer>
-        <div class="container">
-            <p>&copy; 2025 LearnHub. The Free Encyclopedia.</p>
-            <div class="footer-links">
-                <a href="#">About</a>
-                <a href="#">Contact</a>
-                <a href="#">Privacy Policy</a>
-                <a href="#">Terms of Use</a>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>LearnHub</h3>
+                <p>The Free Encyclopedia</p>
+            </div>
+            <div class="footer-section">
+                <h4>Navigation</h4>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contribute.html">Contribute</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h4>Legal</h4>
+                <ul>
+                    <li><a href="#">Terms of Use</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Cookie Policy</a></li>
+                </ul>
             </div>
         </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 LearnHub. All Rights Reserved.</p>
+        </div>
     </footer>
+
+    <!-- Article Modal -->
+    <div id="articleModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div class="modal-header">
+                <h2 id="modalTitle"></h2>
+                <div class="modal-meta">
+                    <span id="modalAuthor"></span>
+                    <span id="modalDate"></span>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="modalImage" class="modal-image"></div>
+                <p id="modalExcerpt"></p>
+            </div>
+        </div>
+    </div>
 
     <script src="script.js"></script>
 </body>
