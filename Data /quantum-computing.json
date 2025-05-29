@@ -1,0 +1,26 @@
+{
+  "title": "Quantum Computing",
+  "introduction": "Quantum computing is a type of computation that harnesses the collective properties of quantum states, such as superposition, interference, and entanglement, to perform calculations.",
+  "sections": [
+    {
+      "title": "Basic Principles",
+      "content": "Quantum computers use quantum bits or qubits which can exist in multiple states simultaneously (superposition) and can be entangled with each other, enabling massive parallel processing."
+    },
+    {
+      "title": "Quantum Supremacy",
+      "content": "In 2019, Google claimed to achieve quantum supremacy when their 53-qubit processor performed a calculation in 200 seconds that would take the world's fastest supercomputer 10,000 years."
+    },
+    {
+      "title": "Potential Applications",
+      "content": "Quantum computing could revolutionize fields like cryptography, drug discovery, financial modeling, and optimization problems that are currently intractable for classical computers."
+    },
+    {
+      "title": "Challenges",
+      "content": "Key challenges include quantum decoherence, error rates, and the need for extremely low operating temperatures near absolute zero."
+    }
+  ],
+  "keyConcepts": ["Qubit", "Superposition", "Entanglement", "Quantum Tunneling", "Quantum Supremacy"],
+  "pioneers": ["Richard Feynman", "David Deutsch", "Peter Shor", "John Preskill"],
+  "yearEstablished": 1980,
+  "currentLeaders": ["IBM", "Google", "IonQ", "Rigetti Computing", "D-Wave"]
+}

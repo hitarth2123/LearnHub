@@ -1,0 +1,1677 @@
+{
+  "name": "Eel River (California)",
+  "identifier": 759162,
+  "abstract": "The Eel River is a major river, about 196 miles (315 km) long, in northwestern California. The river and its tributaries form the third-largest watershed entirely in California, draining a rugged area of 3,684 square miles (9,540 km⁲) in five counties. The river flows generally northward through the Coast Ranges west of the Sacramento Valley, emptying into the Pacific Ocean about 10 miles (16 km) downstream from Fortuna and just south of Humboldt Bay. The river provides groundwater recharge, recreation, and industrial, agricultural and municipal water supply. The Eel River system is among the most dynamic in California because of the region's unstable geology and the influence of major Pacific storms. The discharge is highly variable; average flows in January and February are over 100 times greater than in August and September. The river also carries the highest suspended sediment load of any river of its size in the United States, in part due to the frequent landslides in the region. However, the river basin also supports abundant forests – including some of the world's largest trees in Sequoia sempervirens groves–and, historically, one of California's major salmon and steelhead trout runs. The river basin was lightly populated by Native Americans before, and for decades after, the European settlement of California. The region remained little traveled until 1849, when Josiah Gregg and his exploring party arrived in search of land for settlement. The river was named after they traded a frying pan to a group of Wiyot fishermen in exchange for a large number of Pacific lampreys, which the explorers mistook for eels. Explorers' reports of the fertile and heavily timbered region attracted settlers to Humboldt Bay and the Eel River Valley beginning in 1850. Starting in the late 19th century the Eel River supported a large salmon-canning industry which began to decline by the 1920s due to overfishing. The Eel River basin has also been a significant source of timber since the days of early settlement, and continues to support a major logging sector. The river valley was a major rail transport corridor for the Northwestern Pacific Railroad beginning in 1914 and continuing throughout the 20th century, and also forms part of the route of the Redwood Highway. Since the early 20th century, the Eel River has been dammed in its headwaters to provide water, via interbasin transfer, to parts of Mendocino and Sonoma Counties. During the 1950s and 1960s, there was great interest in building much larger dams in the Eel River system, in order to provide water for the State Water Project. Although the damming would have relieved pressure on greater California's overburdened water systems, it stirred up decades of controversy, as some of the proposals made little economic sense and would have been detrimental to an ailing salmon run. The Eel was granted federal Wild and Scenic River status in 1981, formally making it off-limits to new dams. Nevertheless, logging, grazing, road-building, a burgeoning cannabis industry, and other human activities continue to significantly affect the watershed's ecology.",
+  "version": {
+    "identifier": 1245667722,
+    "comment": "/* Animals */ wikilink",
+    "tags": [
+      "wikieditor"
+    ],
+    "is_minor_edit": true,
+    "scores": {
+      "revertrisk": {
+        "probability": {
+          "false": 0.572668194770813,
+          "true": 0.427331805229187
+        }
+      }
+    },
+    "editor": {
+      "identifier": 24812962,
+      "name": "Compassionate727",
+      "edit_count": 30903,
+      "groups": [
+        "abusefilter-helper",
+        "extendedconfirmed",
+        "patroller",
+        "reviewer",
+        "rollbacker",
+        "*",
+        "user",
+        "autoconfirmed"
+      ],
+      "is_patroller": true,
+      "date_started": "2015-04-18T02:19:43Z"
+    },
+    "number_of_characters": 73320,
+    "size": {
+      "value": 73422,
+      "unit_text": "B"
+    },
+    "maintenance_tags": {}
+  },
+  "event": {
+    "identifier": "a8b0cc04-acc6-489c-abaf-b950d9f9bcbc",
+    "type": "update",
+    "date_created": "2024-09-14T11:49:31.288913Z",
+    "date_published": "2024-09-14T11:49:31.857617Z"
+  },
+  "url": "https://en.wikipedia.org/wiki/Eel_River_(California)",
+  "date_created": "2004-06-27T22:37:37Z",
+  "date_modified": "2024-09-14T11:49:24Z",
+  "main_entity": {
+    "identifier": "Q3048862",
+    "url": "https://www.wikidata.org/entity/Q3048862"
+  },
+  "is_part_of": {
+    "identifier": "enwiki",
+    "url": "https://en.wikipedia.org"
+  },
+  "additional_entities": [
+    {
+      "identifier": "Q25126022",
+      "url": "https://www.wikidata.org/entity/Q25126022",
+      "aspects": [
+        "S"
+      ]
+    },
+    {
+      "identifier": "Q3048862",
+      "url": "https://www.wikidata.org/entity/Q3048862",
+      "aspects": [
+        "C",
+        "D.en",
+        "O",
+        "S",
+        "T"
+      ]
+    }
+  ],
+  "in_language": {
+    "identifier": "en"
+  },
+  "image": {
+    "content_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/EelRiverHumboldt.jpg",
+    "width": 2816,
+    "height": 2120
+  },
+  "license": [
+    {
+      "name": "Creative Commons Attribution-ShareAlike 4.0",
+      "identifier": "CC-BY-SA-4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  ],
+  "description": "River in northern California, United States",
+  "infoboxes": [
+    {
+      "type": "infobox",
+      "name": "Infobox river",
+      "has_parts": [
+        {
+          "type": "section",
+          "name": "Eel River",
+          "has_parts": [
+            {
+              "type": "image",
+              "value": "The river near Dyerville, California",
+              "images": [
+                {
+                  "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/EelRiverHumboldt.jpg/300px-EelRiverHumboldt.jpg",
+                  "width": 300,
+                  "height": 300,
+                  "caption": "The river near Dyerville, California"
+                }
+              ],
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Dyerville,_California",
+                  "text": "Dyerville, California"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "value": "Map of the Eel River drainage basin",
+              "images": [
+                {
+                  "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eelrivermap.png/300px-Eelrivermap.png",
+                  "width": 300,
+                  "height": 300,
+                  "caption": "Map of the Eel River drainage basin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "Location",
+          "has_parts": [
+            {
+              "type": "field",
+              "name": "Country",
+              "value": "United States"
+            },
+            {
+              "type": "field",
+              "name": "State",
+              "value": "California"
+            },
+            {
+              "type": "field",
+              "name": "County",
+              "value": "Humboldt, Lake, Mendocino, Trinity",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Humboldt_County,_California",
+                  "text": "Humboldt"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Lake_County,_California",
+                  "text": "Lake"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Mendocino_County,_California",
+                  "text": "Mendocino"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Trinity_County,_California",
+                  "text": "Trinity"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "City",
+              "value": "Fortuna",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Fortuna,_California",
+                  "text": "Fortuna"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "Physical characteristics",
+          "has_parts": [
+            {
+              "type": "field",
+              "name": "Source",
+              "value": "Pacific Coast Ranges"
+            },
+            {
+              "type": "field",
+              "name": "location",
+              "value": "Mendocino County, California"
+            },
+            {
+              "type": "field",
+              "name": "coordinates",
+              "value": "39°36′51″N 122°58′12″W / 39.61417°N 122.97000°W",
+              "links": [
+                {
+                  "url": "https://geohack.toolforge.org/geohack.php?pagename=Eel_River_(California)¶ms=39_36_51_N_122_58_12_W_",
+                  "text": "39°36′51″N 122°58′12″W / 39.61417°N 122.97000°W"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_(California)#cite_note-gnis-1"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "elevation",
+              "value": "6,245 ft (1,903 m)",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_(California)#cite_note-source-2"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "Mouth",
+              "value": "Pacific Ocean",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/River_mouth",
+                  "text": "Mouth"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "location",
+              "value": "Humboldt County, California"
+            },
+            {
+              "type": "field",
+              "name": "coordinates",
+              "value": "40°38′29″N 124°18′44″W / 40.64139°N 124.31222°W",
+              "links": [
+                {
+                  "url": "https://geohack.toolforge.org/geohack.php?pagename=Eel_River_(California)¶ms=40_38_29_N_124_18_44_W_type:river",
+                  "text": "40°38′29″N 124°18′44″W / 40.64139°N 124.31222°W"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_(California)#cite_note-gnis-1"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "elevation",
+              "value": "0 ft (0 m)"
+            },
+            {
+              "type": "field",
+              "name": "Length",
+              "value": "196 mi (315 km)",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_(California)#cite_note-gnis-1"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "Basin size",
+              "value": "3,684 sq mi (9,540 km 2)",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_(California)#cite_note-foter-3"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "Discharge",
+              "value": "Discharge"
+            },
+            {
+              "type": "field",
+              "name": "location",
+              "value": "mouth, near Fortuna",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Fortuna,_California",
+                  "text": "Fortuna"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_(California)#cite_note-Lisle-4"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "average",
+              "value": "9,503 cu ft/s (269.1 m 3 /s)",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_(California)#cite_note-Lisle-4"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "minimum",
+              "value": "10 cu ft/s (0.28 m 3 /s)"
+            },
+            {
+              "type": "field",
+              "name": "maximum",
+              "value": "935,800 cu ft/s (26,500 m 3 /s)"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "Basin features",
+          "has_parts": [
+            {
+              "type": "field",
+              "name": "Tributaries",
+              "value": "Tributaries"
+            },
+            {
+              "type": "field",
+              "name": "left",
+              "value": "South Fork Eel River",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/South_Fork_Eel_River",
+                  "text": "South Fork Eel River"
+                }
+              ]
+            },
+            {
+              "type": "field",
+              "name": "right",
+              "value": "Middle Fork Eel River, North Fork Eel River, Van Duzen River",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Middle_Fork_Eel_River",
+                  "text": "Middle Fork Eel River"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/North_Fork_Eel_River",
+                  "text": "North Fork Eel River"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Van_Duzen_River",
+                  "text": "Van Duzen River"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "National Wild and Scenic River",
+          "has_parts": [
+            {
+              "type": "field",
+              "name": "Type",
+              "value": "Wild 97.0 miles (156.1 km) Scenic 28.0 miles (45.1 km) Recreational 273.0 miles (439.4 km)"
+            },
+            {
+              "type": "field",
+              "name": "Designated",
+              "value": "January 19, 1981",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_(California)#cite_note-5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "name": "Abstract",
+      "has_parts": [
+        {
+          "type": "paragraph",
+          "value": "The Eel River (Wiyot: Wiya't; Cahto: Taanchow; Northern Pomo: ch'idiyu) is a major river, about 196 miles (315 km) long, in northwestern California. The river and its tributaries form the third-largest watershed entirely in California, draining a rugged area of 3,684 square miles (9,540 km) in five counties. The river flows generally northward through the Coast Ranges west of the Sacramento Valley, emptying into the Pacific Ocean about 10 miles (16 km) downstream from Fortuna and just south of Humboldt Bay. The river provides groundwater recharge, recreation, and industrial, agricultural and municipal water supply.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Wiyot_language",
+              "text": "Wiyot"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Cahto_language",
+              "text": "Cahto"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Northern_Pomo_language",
+              "text": "Northern Pomo"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/California",
+              "text": "California"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Drainage_basin",
+              "text": "watershed"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/California_Coast_Ranges",
+              "text": "Coast Ranges"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Sacramento_Valley",
+              "text": "Sacramento Valley"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+              "text": "Pacific Ocean"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Humboldt_Bay",
+              "text": "Humboldt Bay"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Groundwater_recharge",
+              "text": "groundwater recharge"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The Eel River system is among the most dynamic in California because of the region's unstable geology and the influence of major Pacific storms. The discharge is highly variable; average flows in January and February are over 100 times greater than in August and September. The river also carries the highest suspended sediment load of any river of its size in the United States, in part due to the frequent landslides in the region. However, the river basin also supports abundant forests – including some of the world's largest trees in Sequoia sempervirens (Coastal redwood) groves–and, historically, one of California's major salmon and steelhead trout runs.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Discharge_(hydrology)",
+              "text": "discharge"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Sediment_transport",
+              "text": "suspended sediment"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Landslide",
+              "text": "landslides"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Sequoia_sempervirens",
+              "text": "Sequoia sempervirens"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Salmon",
+              "text": "salmon"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Rainbow_trout",
+              "text": "steelhead trout"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The river basin was lightly populated by Native Americans before, and for decades after, the European settlement of California. The region remained little traveled until 1849, when Josiah Gregg and his exploring party arrived in search of land for settlement. The river was named after they traded a frying pan to a group of Wiyot fishermen in exchange for a large number of Pacific lampreys, which the explorers mistook for eels. Explorers' reports of the fertile and heavily timbered region attracted settlers to Humboldt Bay and the Eel River Valley beginning in 1850. Starting in the late 19th century the Eel River supported a large salmon-canning industry which began to decline by the 1920s due to overfishing. The Eel River basin has also been a significant source of timber since the days of early settlement, and continues to support a major logging sector. The river valley was a major rail transport corridor for the Northwestern Pacific Railroad beginning in 1914 and continuing throughout the 20th century, and also forms part of the route of the Redwood Highway (US Highway 101).",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Josiah_Gregg",
+              "text": "Josiah Gregg"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Wiyot",
+              "text": "Wiyot"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Pacific_lamprey",
+              "text": "Pacific lampreys"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Humboldt_Bay",
+              "text": "Humboldt Bay"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Northwestern_Pacific_Railroad",
+              "text": "Northwestern Pacific Railroad"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/US_Route_101",
+              "text": "Redwood Highway"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "Since the early 20th century, the Eel River has been dammed in its headwaters to provide water, via interbasin transfer, to parts of Mendocino and Sonoma Counties. During the 1950s and 1960s, there was great interest in building much larger dams in the Eel River system, in order to provide water for the State Water Project. Although the damming would have relieved pressure on greater California's overburdened water systems, it stirred up decades of controversy, as some of the proposals made little economic sense and would have been detrimental to an ailing salmon run. The Eel was granted federal Wild and Scenic River status in 1981, formally making it off-limits to new dams. Nevertheless, logging, grazing, road-building, a burgeoning cannabis industry, and other human activities continue to significantly affect the watershed's ecology.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Interbasin_water_transfer",
+              "text": "interbasin transfer"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Mendocino_County,_California",
+              "text": "Mendocino"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Sonoma_County,_California",
+              "text": "Sonoma"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/California_State_Water_Project",
+              "text": "State Water Project"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Wild_and_Scenic_River",
+              "text": "Wild and Scenic River"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "name": "Course",
+      "has_parts": [
+        {
+          "type": "paragraph",
+          "value": "The Eel River originates on the southern flank of 6,740-foot (2,050 m) Bald Mountain, in the Upper Lake Ranger District of the Mendocino National Forest in Mendocino County. The river flows south through a narrow canyon in Lake County before entering Lake Pillsbury, the reservoir created by Scott Dam. Below the dam the river flows west, re-entering Mendocino County. At the small Cape Horn Dam about 15 miles (24 km) east of Willits, water is diverted from the Eel River basin through a 1-mile (1.6 km) tunnel to the East Fork Russian River, in a scheme known as the Potter Valley Project.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Mendocino_National_Forest",
+              "text": "Mendocino National Forest"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Lake_County,_California",
+              "text": "Lake County"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Lake_Pillsbury",
+              "text": "Lake Pillsbury"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Willits,_California",
+              "text": "Willits"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/East_Fork_Russian_River",
+              "text": "East Fork Russian River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Potter_Valley_Project",
+              "text": "Potter Valley Project"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "Below the dam the river turns north, flowing through a long, isolated valley, receiving Outlet Creek from the west and then the Middle Fork Eel River from the east at Dos Rios. About 20 miles (32 km) downstream, the North Fork Eel River –draining one of the most rugged and remote portions of the watershed–joins from the east. Between the North and Middle Forks the Round Valley Indian Reservation lies east of the Eel River. After this confluence the Eel flows briefly through southwestern Trinity County, past Island Mountain, before entering Humboldt County near Alderpoint.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Outlet_Creek",
+              "text": "Outlet Creek"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Middle_Fork_Eel_River",
+              "text": "Middle Fork Eel River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Dos_Rios,_California",
+              "text": "Dos Rios"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/North_Fork_Eel_River",
+              "text": "North Fork Eel River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Round_Valley_Indian_Reservation",
+              "text": "Round Valley Indian Reservation"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Trinity_County,_California",
+              "text": "Trinity County"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Island_Mountain",
+              "text": "Island Mountain"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Humboldt_County,_California",
+              "text": "Humboldt County"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Alderpoint,_California",
+              "text": "Alderpoint"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The river cuts in a northwesterly direction across Humboldt County, past a number of small mountain communities including Fort Seward. The South Fork Eel River joins from the west, near Humboldt Redwoods State Park and the town of Weott. Below the South Fork the Eel flows through a wider agricultural valley, past Scotia and Rio Dell, before receiving the Van Duzen River from the east. At Fortuna, the river turns west across the coastal plain and enters the Pacific via a large estuary in central Humboldt County, about 15 miles (24 km) south of Eureka.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Fort_Seward,_California",
+              "text": "Fort Seward"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/South_Fork_Eel_River",
+              "text": "South Fork Eel River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Humboldt_Redwoods_State_Park",
+              "text": "Humboldt Redwoods State Park"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Weott,_California",
+              "text": "Weott"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Scotia,_California",
+              "text": "Scotia"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Rio_Dell,_California",
+              "text": "Rio Dell"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Van_Duzen_River",
+              "text": "Van Duzen River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Estuary",
+              "text": "estuary"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Eureka,_California",
+              "text": "Eureka"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The Northwestern Pacific Railroad tracks follow the Eel River from Outlet Creek, about 7 miles (11 km) above Dos Rios, to Fortuna. The railroad has been out of service since 1998 due to concerns involving historically exorbitant maintenance costs versus the line's economic returns. U.S. Route 101 runs along the South Fork Eel River and then the lower Eel River below the South Fork.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Northwestern_Pacific_Railroad",
+              "text": "Northwestern Pacific Railroad"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Dos_Rios,_California",
+              "text": "Dos Rios"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/U.S._Route_101",
+              "text": "U.S. Route 101"
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "Discharge",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "Average flow of the Eel River varies widely due to its location, which places it more or less directly in the path of Pineapple Express -type winter storms. In the Mediterranean climate of its basin, almost all precipitation falls in the winter, and wet-season flows can be enormous, while the summer and early autumn provide only minimal precipitation, if any, causing the sometimes-mighty river to slow to a trickle. At its mouth, the Eel River produces an estimated annual runoff of 6.9 million acre-feet (8.5 km) per year, or about 9,500 cu ft/s (270 m /s). The Eel's maximum recorded flow of 936,000 cu ft/s (26,500 m /s) on December 23, 1964, was the largest peak discharge of any California river in recorded history, and one of the largest peaks recorded in the world relative to the size of its drainage basin. In contrast, during the dry months of July through September, the river achieves nearly zero flow.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Pineapple_Express",
+                  "text": "Pineapple Express"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Mediterranean_climate",
+                  "text": "Mediterranean climate"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "The lowermost United States Geological Survey (USGS) streamgauge on the Eel where flow volume is measured is at Scotia, where an annual mean of 7,309 cubic feet per second (207.0 m /s), or 5.3 million acre-feet (6.5 km) per year, was recorded between 1910 and 2012. This station measures runoff from an area of 3,113 square miles (8,060 km), or 85 percent of the basin; however it does not include the flow of the Van Duzen River, which joins several miles downstream. Monthly average flows at Scotia range from 19,700 cu ft/s (560 m /s) in January to 138 cu ft/s (3.9 m /s) in September – a 143:1 difference. The annual means also experience huge variations, with a high of 12.5 million acre-feet (15.4 km), or 17,300 cu ft/s (490 m /s), in 1983, and a low of 410,000 acre-feet (0.51 km), or 563 cu ft/s (15.9 m /s), in 1977.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/United_States_Geological_Survey",
+                  "text": "United States Geological Survey"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Scotia,_California",
+                  "text": "Scotia"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "Reduction in flow occurs in part due to deliberate water diversion from the Eel to the Russian River watershed by the Pacific Gas and Electric Company's Potter Valley Project, located to the south in Mendocino County. Although the effect on the total annual flow is negligible (only about 3 percent of the total flow of the Eel River) the impact is much larger during the dry season, when the Eel's already-low natural flows are further reduced by diversions. Since 2004 the dams used by the project have been required to provide additional flow to the Eel River during the dry season, primarily to mitigate the negative impacts the project has on fish populations.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Russian_River_(California)",
+                  "text": "Russian River"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Pacific_Gas_and_Electric_Company",
+                  "text": "Pacific Gas and Electric Company's"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Potter_Valley_Project",
+                  "text": "Potter Valley Project"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Mendocino_County_(California)",
+                  "text": "Mendocino County"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "Eel River monthly mean discharge at Scotia (cfs)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "name": "Watershed",
+      "has_parts": [
+        {
+          "type": "paragraph",
+          "value": "The Eel River drains an area of 3,684 square miles (9,540 km), the third-largest watershed entirely in California, after those of the San Joaquin River and the Salinas River. The Colorado, Sacramento, and Klamath River systems are larger, but their drainage areas extend into neighboring states as well. The Eel River system extends into five California counties: Glenn, Humboldt, Lake, Mendocino, and Trinity. The main stem traverses four counties, excepting Glenn. The majority of the watershed is located within Mendocino and Humboldt Counties.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/San_Joaquin_River",
+              "text": "San Joaquin River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Salinas_River_(California)",
+              "text": "Salinas River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Colorado_River",
+              "text": "Colorado"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Sacramento_River",
+              "text": "Sacramento"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Klamath_River",
+              "text": "Klamath River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Glenn_County,_California",
+              "text": "Glenn"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The Eel's major tributaries–the North Fork, Middle Fork, South Fork and Van Duzen Rivers, drain 286 square miles (740 km), 753 square miles (1,950 km), 689 square miles (1,780 km), and 420 square miles (1,100 km), respectively. The Middle Fork drains the greatest area of all the tributaries, but the South Fork is longer, and carries the most water because of the higher rainfall in its basin."
+        },
+        {
+          "type": "paragraph",
+          "value": "The Eel River watershed is located entirely in the California Coast Ranges. The topography creates a general drainage pattern that runs from southeast to northwest, except in the Middle Fork basin and the Eel headwaters, where water flows from east to west. The watershed is bordered on the north by the basin of the Mad River, on the east by that of the Sacramento River, on the west by that of the Mattole River, and on the south by those of the Russian River and Ten Mile River. Major centers of population on the river include Willits, Garberville, Redway, Scotia, Rio Dell, Fortuna, and Ferndale. Minor communities include Laytonville, Branscomb, Cummings, Leggett, Piercey, Benbow, Phillipsville, Myers Flat, Shively, and Pepperwood. The river's relatively large estuary and delta, which includes the Salt River tributary and related creeks, is located just one low ridge south from Humboldt Bay and 12 miles (19 km) south of Eureka, the main city in the region.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/California_Coast_Ranges",
+              "text": "California Coast Ranges"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Mad_River_(California)",
+              "text": "Mad River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Sacramento_River",
+              "text": "Sacramento River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Mattole_River",
+              "text": "Mattole River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Russian_River_(California)",
+              "text": "Russian River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Ten_Mile_River_(California)",
+              "text": "Ten Mile River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Willits,_California",
+              "text": "Willits"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Garberville,_California",
+              "text": "Garberville"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Redway,_California",
+              "text": "Redway"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Rio_Dell,_California",
+              "text": "Rio Dell"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Ferndale,_California",
+              "text": "Ferndale"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Laytonville,_California",
+              "text": "Laytonville"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Branscomb,_California",
+              "text": "Branscomb"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Leggett,_California",
+              "text": "Leggett"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Benbow,_California",
+              "text": "Benbow"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Phillipsville,_California",
+              "text": "Phillipsville"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Myers_Flat,_California",
+              "text": "Myers Flat"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Shively,_California",
+              "text": "Shively"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Pepperwood,_California",
+              "text": "Pepperwood"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Salt_River_(California)",
+              "text": "Salt River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Eureka,_California",
+              "text": "Eureka"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "Since the mid-19th century, logging activity in the watershed has loosened soil and destabilized aquifers, reducing the river's base flow, although the watershed is slowly recovering. Logging, grazing and other resource exploitation activities and their accompanying environmental changes have also increased the intensity of flood and drought. Prior to 2011, the Eel River basin consisted of 65.1% forest, 12.2% shrubland, and 19.2% grassland, with just 1.9% agricultural and 0.2% developed urban. The human population of the watershed is about 32,000–less than 10 people per square mile (26/km).",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Baseflow",
+              "text": "base flow"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Shrubland",
+              "text": "shrubland"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Grassland",
+              "text": "grassland"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "In the 20th century, much of the watershed area was included under state parks and national forest, including Six Rivers National Forest, Yolla Bolly-Middle Eel Wilderness, and Humboldt Redwoods State Park. A total of 398 miles (641 km) of the Eel River and its major tributaries are protected under the National Wild and Scenic Rivers system, with 97 miles (156 km) classed as wild, 28 miles (45 km) as scenic, and 273 miles (439 km) as recreational. About 155 miles (249 km) of the main stem are designated, from the mouth to a point just below Cape Horn Dam. The Middle Fork is also wild and scenic from its confluence with the Eel to the boundary of the Yolla Bolly–Middle Eel Wilderness. The South Fork is designated from its mouth to the Section Four Creek confluence, the North Fork from its mouth to Old Gilman Ranch, and the Van Duzen River from its mouth to Dinsmore Bridge.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Six_Rivers_National_Forest",
+              "text": "Six Rivers National Forest"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Yolla_Bolly-Middle_Eel_Wilderness",
+              "text": "Yolla Bolly-Middle Eel Wilderness"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Humboldt_Redwoods_State_Park",
+              "text": "Humboldt Redwoods State Park"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/National_Wild_and_Scenic_Rivers",
+              "text": "National Wild and Scenic Rivers"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Cape_Horn_Dam",
+              "text": "Cape Horn Dam"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Dinsmore_Bridge",
+              "text": "Dinsmore Bridge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "name": "Geology",
+      "has_parts": [
+        {
+          "type": "paragraph",
+          "value": "Most of the Eel River watershed is underlain by sedimentary rock of the Franciscan Assemblage (or Complex), whose rocks date to the Late Jurassic (161–146 million years ago). The Franciscan is part of a terrane, or crustal fragment, that originated at the bottom of the Pacific Ocean. Beginning several million years ago, tectonic forces shoved the Franciscan assemblage against the North American Plate, pushing up the Coast Ranges. The Eel River basin is among the most seismically active areas in California, especially in the north (the river empties into the Pacific only several miles north of Cape Mendocino near the Mendocino Triple Junction, which marks the northern end of the San Andreas Fault and produces frequent earthquakes due to the juncture of three tectonic plates). In the western and northern portions of the Eel River watershed, soils eroded from the Franciscan assemblage are often sticky, clayey and highly unstable, creating a high risk of landslides. This soil is often known as \" blue goo \" because of its gray-blue color, soft, sticky texture, and its tendency to slip when saturated. Further inland and south, soils are well drained, although landslides are nevertheless common because of the high rainfall and steep slopes.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Franciscan_Assemblage",
+              "text": "Franciscan Assemblage"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Late_Jurassic",
+              "text": "Late Jurassic"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Terrane",
+              "text": "terrane"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/North_American_Plate",
+              "text": "North American Plate"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Cape_Mendocino",
+              "text": "Cape Mendocino"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Mendocino_Triple_Junction",
+              "text": "Mendocino Triple Junction"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/San_Andreas_Fault",
+              "text": "San Andreas Fault"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Tectonic_plate",
+              "text": "tectonic plates"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Blue_goo",
+              "text": "blue goo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "Because of the mountainous topography, the only flat land in the Eel River watershed is along the larger river valleys, where stream terraces have been formed, and in the estuary region near the mouth of the river. Terraces were formed due to a combination of the high sediment load of the river system, and the rapid regional rate of geologic uplift (up to 13 feet (4.0 m) per 1000 years, as measured at Scotia Bluffs). The Eel's behavior of downcutting its own sediments has caused it to flow in a deeply incised channel, which can generally contain all but the largest floods. The younger mountains in the north may be uplifting at a rate ten times faster than the headwater regions further south and east, which consist of much older rock.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Stream_terrace",
+              "text": "stream terraces"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The Eel River has the highest per-unit-area sediment yield of any river of comparable watershed size in the continental U.S., excluding those fed by active glacial or volcanic sources. The estimated annual sediment load is 16 million short tons, or an average of 4,458 tons per square mile (1,720 tons/km). Flooding events have a large effect on the average amount of transported sediment: high water in the years 1969, 1983 and 1998 caused an annual sediment load 27 times greater than that of normal years. Among rivers of the contiguous United States, only the Mississippi River carries more sediment to the sea (the Colorado River historically transported more than the Eel as well, but most of its sediment is now trapped by dams). However, both the Mississippi and Colorado have lesser sediment yields relative to their drainage areas.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Short_ton",
+              "text": "short tons"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Mississippi_River",
+              "text": "Mississippi River"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Colorado_River",
+              "text": "Colorado River"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "name": "History",
+      "has_parts": [
+        {
+          "type": "section",
+          "name": "Native Americans",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "The Eel River basin has been inhabited by humans for thousands of years; some of the oldest concrete evidence of human habitation is at a petroglyph site near the upper Eel River discovered in 1913, which may be as old as 2500 years. When the first European colonizers arrived, the area was home to several indigenous peoples of the Eel River Athapaskan group, with at least four groups identified by dialects: Nongatl and Sinkyone in the north, and Lassik and Wailaki in the middle and south parts of the basin. The upper valley was home to the Interior Yuki (the Huchnom), with the river and its tributaries frequented by Northern and Northeastern Pomo fishing groups.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Petroglyph",
+                  "text": "petroglyph"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_Athapaskans",
+                  "text": "Eel River Athapaskan"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Yuki_people",
+                  "text": "Interior Yuki"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Northern_Pomo_language",
+                  "text": "Northern"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Northeastern_Pomo_language",
+                  "text": "Northeastern Pomo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "European arrival",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "The first westerner to enter the Eel River was Sebastián Vizcaíno, sailing on behalf of Philip III of Spain, seeking a mythical northwest passage described in secret papers as being at the latitude of Cape Mendocino. Vizcaíno sailed into the mouth of the Eel in January 1603 where instead of the cultured city of Quivera the papers had described, the men encountered native people they described as \"uncultured.\"",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Sebastián_Vizcaíno",
+                  "text": "Sebastián Vizcaíno"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Philip_III_of_Spain",
+                  "text": "Philip III of Spain"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Cape_Mendocino",
+                  "text": "Cape Mendocino"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "Settlement in the 19th century",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "The Eel River was named in 1849 at the dawn of the California Gold Rush by an exploring party led by Josiah Gregg. Except for Gregg, who was a physician, naturalist and explorer, the remainder of the party were miners from a temporary camp on the Trinity River at Helena. The party took months to travel overland by an extremely arduous route from Helena to the Pacific Ocean between November and December 1849, when they are credited with the rediscovery of Humboldt Bay by land. The bay had been seen by earlier Spanish and Russian explorers but never settled. After camping and restocking at Humboldt Bay, they traveled to San Francisco to report their discovery. They crossed the Eel River on their way south where they traded a broken frying pan to the local fishermen in exchange for a large number of Pacific lamprey, which they mistook for eels. They named the Van Duzen River after James Van Duzen, a member of the expedition. The party split in two and the survivors returned to San Francisco from whence ships left to settle Humboldt Bay in early 1850, bringing lumber and supplies from San Francisco. One ship sailed up the Eel River and became trapped. In the hurry to be first into Humboldt Bay, they dragged a longboat through the sloughs on the north side of the Eel River's mouth to the waters of the bay, where they were met by members of the Laura Virginia party.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/California_Gold_Rush",
+                  "text": "California Gold Rush"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Josiah_Gregg",
+                  "text": "Josiah Gregg"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Trinity_River_(California)",
+                  "text": "Trinity River"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Helena,_California",
+                  "text": "Helena"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/San_Francisco",
+                  "text": "San Francisco"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "Many of the people who settled in this region were prospectors from the Gold Rush who did not manage to find gold. Although most of the early settlements were made along the coast, some people spread south into the Eel River valley, which offered fertile soils along with other abundant natural resources. However, the settlers also faced conflict as they pushed deeper into Native American lands. American negotiator Colonel Reddick McKee 's treaty would have given the Indians a large reservation around the mouth of the Eel, but the treaties were never ratified. American settlements were made along the flat terraces of the Eel, near the confluence with the Van Duzen River and toward the mouth of the river where there was more arable land than the steep upper canyons. Most of these areas were appropriated for agriculture and grazing land. Salmon canneries flourished on the lower Eel between the 1870s and the 1920s, and declined thereafter because of decreasing runs caused by overfishing and other manmade environmental changes. Logging companies also took hundreds of millions of board feet of timber from the basin, which were floated down the Eel River to the estuary. Because the Eel River's twists and turns made it difficult to float the large redwood logs, the timber was cut into smaller rectangular \"cants\" to make them more manageable. In 1884 the Eel River and Eureka Railroad began shipping lumber from the Eel River estuary to the port at Humboldt Bay, where the logs were loaded onto ships bound for San Francisco.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Redick_McKee",
+                  "text": "Reddick McKee"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Eel_River_and_Eureka_Railroad",
+                  "text": "Eel River and Eureka Railroad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "20th century",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "As part of the Potter Valley or Eel River Project, a pair of dams were built across the upper reaches of the Eel beginning in 1906 to divert water to the more populous but smaller Russian River drainage area to the south, resulting in a much higher flow in the smaller river and a decreased flow in the upper Eel during certain seasons. Although located near the headwaters, these dams can cause a significant reduction of the flow of the lower Eel River because much of the river's summer flow originates from the mountains above Lake Pillsbury."
+            },
+            {
+              "type": "paragraph",
+              "value": "In 1910 noted American engineer John B. Leonard designed Fernbridge, a 1,320 feet (400 m) all-concrete arched bridge at the site of the earlier Singley's Ferry crossing. Completed in 1911, and now listed on the National Historic Register, Fernbridge is the last major crossing before the Eel arrives at the Pacific Ocean. The last crossing before the Pacific Ocean is at Cock Robin Island Road a few miles to the west of Fernbridge. Later, the Pacific Coast Highway would be constructed along the South Fork and along the Eel River downriver of the South Fork.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/John_B._Leonard",
+                  "text": "John B. Leonard"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Fernbridge_(bridge)",
+                  "text": "Fernbridge"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Pacific_Coast_Highway_(California)",
+                  "text": "Pacific Coast Highway"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "In 1914, after seven years of construction, the Northwestern Pacific Railroad completed a rail line running along much of the Eel River as an important transportation link connecting Eureka and the many small towns along the Eel River valley to the national rail network. The railroad had the ignominious distinction of being the most expensive (per mile) ever built at the time: it traversed some of the most rugged and unstable topography in California, with 30 tunnels in a 95-mile (153 km) stretch. The ceremonial driving of the golden spike at Cain Rock was delayed by flooding and subsequent landslide damage to the rail line in October 1914."
+            },
+            {
+              "type": "paragraph",
+              "value": "In the 1950s, interest grew in damming the Eel River system to provide water for central and southern California. After a damaging flood in 1955, these dams also received support for potential flood-control benefits. The U.S. Bureau of Reclamation and U.S. Army Corps of Engineers proposed a series of dams on the river and its tributaries, the largest of which was the enormous Dos Rios Dam near the confluence with the Middle Fork, which would provide water for the California State Water Project and control flooding. Water would be diverted through a 40-mile (64 km) tunnel to the Sacramento Valley, where it would join the water flowing down the Sacramento River to the California Aqueduct pumps in the Sacramento–San Joaquin River Delta. The proposal was defeated with public initiative by the early 1970s, to protect the remaining relatively wild rivers in the state. Ronald Reagan, governor of California at the time, refused to approve the project. The proposed reservoir would have flooded the Round Valley Indian Reservation.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/U.S._Bureau_of_Reclamation",
+                  "text": "U.S. Bureau of Reclamation"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers",
+                  "text": "U.S. Army Corps of Engineers"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/California_State_Water_Project",
+                  "text": "California State Water Project"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Sacramento_Valley",
+                  "text": "Sacramento Valley"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/California_Aqueduct",
+                  "text": "California Aqueduct"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Sacramento–San_Joaquin_River_Delta",
+                  "text": "Sacramento–San Joaquin River Delta"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+                  "text": "Ronald Reagan"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Round_Valley_Indian_Reservation",
+                  "text": "Round Valley Indian Reservation"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "In 1964, a severe Pineapple Express event known as \"The '64 Flood\" brought heavy rains to coastal northern California. The Eel River drainage area was directly in the storm's path. With no major dams to control its flow, the main Eel reached a peak of 936,000 cu ft/s (26,500 m /s), with 200,000 cu ft/s (5,700 m /s) from the South Fork alone. Ten towns were obliterated with dozens of others damaged; at least 20 bridges were destroyed, and some were never rebuilt. The heavy damage was due not only to the water, but to the huge amount of sediment and debris swept down the river, including millions of board feet of timber. The deepest flood waters were nearly 70 feet (21 m) above the normal river level. Several thousand people were left homeless by the floods and over 4,000 head of livestock died.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Pineapple_Express",
+                  "text": "Pineapple Express"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Christmas_Flood_of_1964",
+                  "text": "\"The '64 Flood\""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "The large storms of the mid-20th century, along with the ecological changes from logging and grazing activities, almost wiped out the river's salmon run. Due to huge earth-flows caused by the record rain in 1964, 105 million tons of sediment were carried down the Eel River between December 21–23 as measured at Scotia–more than in the previous eight years combined. This sediment scoured away or buried spawning grounds for salmon and steelhead trout, causing the populations of these fish to drop to dangerous levels by the mid-1970s."
+            },
+            {
+              "type": "paragraph",
+              "value": "The flooding was also deleterious to rail service through the Eel River canyon. After the 1964 flood, much of the topography in the Eel River drainage has been permanently transfigured, and landslides occur more often, frequently damaging local road and rail infrastructure. In 1998, after another large flood in the winter of 1996–1997 washed out sections of the line, the Northwestern Pacific became the first railroad to be shut down by the federal government for safety reasons. Although the portion south of Willits was reopened in 2006, the section between Willits and Samoa, which includes the entire Eel River portion of the tracks, is unlikely to ever be returned to service.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Samoa,_California",
+                  "text": "Samoa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "name": "Ecology",
+      "has_parts": [
+        {
+          "type": "section",
+          "name": "Plants",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "The Eel River watershed lies within the Oregon and Northern California Coastal freshwater ecoregion, which is characterized by temperate coniferous forests consisting largely of Douglas fir and western hemlock. The watershed also contains many stands of Redwood that are among the largest such trees in California. In the Eel River basin, redwoods can be found further inland than other parts of the northern California coast because of the wide lower valley of the river, which acts as a funnel conducting moist air eastward from the coast. However, redwood groves are still most common in the drainage area of the South Fork Eel River, which lies closest to the Pacific.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Ecoregion",
+                  "text": "ecoregion"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Douglas_fir",
+                  "text": "Douglas fir"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Western_hemlock",
+                  "text": "western hemlock"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Sequoioideae",
+                  "text": "Redwood"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "Animals",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "Aquatic mammals include beaver, muskrat, raccoon, river otter and mink. Beavers are confirmed in Outlet Creek (tributary to main stem Eel north of Willits), but may occur in other areas as well. That beaver were once native to the Eel River watershed is supported by the name of a tributary of the Middle Fork Eel River, Beaver Creek. Cyanobacteria grows in the river, and is suspected as the cause of death in fourteen dogs between 2004 and 2024.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/North_American_beaver",
+                  "text": "beaver"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Muskrat",
+                  "text": "muskrat"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Raccoon",
+                  "text": "raccoon"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/North_American_river_otter",
+                  "text": "river otter"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Mink",
+                  "text": "mink"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Outlet_Creek",
+                  "text": "Outlet Creek"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Cyanobacteria",
+                  "text": "Cyanobacteria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "Salmon and steelhead",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "The Eel River supports runs of multiple anadromous fishes: Chinook, coho salmon, steelhead (rainbow trout) and coastal cutthroat trout among the major species. In its natural state, it was the third-largest salmon- and steelhead-producing river system in California, with over a million fish spawning annually, after the Sacramento and Klamath rivers. The annual chinook salmon run was estimated at 100,000–800,000, coho at 50,000–100,000, and steelhead may have numbered as high as 100,000–150,000.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Anadromous_fish",
+                  "text": "anadromous fishes"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Chinook_salmon",
+                  "text": "Chinook"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Coho_salmon",
+                  "text": "coho salmon"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Steelhead",
+                  "text": "steelhead"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Coastal_cutthroat_trout",
+                  "text": "coastal cutthroat trout"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Klamath_River",
+                  "text": "Klamath rivers"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "About 22,000 years ago, a massive landslide off Nefus Peak dammed the Eel River near Alderpoint to a height of 460 feet (140 m). A 30-mile (48 km) -long lake formed behind the barrier. Sediment deposits indicate the lake may have persisted for as many as several thousand years, which is highly unusual considering the easily eroded rock of the region and the unstable nature of landslide dams in general. The dam blocked access to steelhead trout spawning grounds in the upper Eel River, causing the summer and winter runs to interbreed. Thus, there is an unusually high genetic similarity between summer-run and winter-run steelhead in the Eel River system, in contrast to other rivers in the Western United States.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Alderpoint,_California",
+                  "text": "Alderpoint"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Landslide_dam",
+                  "text": "landslide dams"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Western_United_States",
+                  "text": "Western United States"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "Human impacts have led to a dramatic decline of salmon and steelhead populations in the Eel River system. Large-scale commercial fishing began in the 1850s, with multiple canneries on the Eel River operating into the early to mid 1900s. Between 1857 and 1921, canning operations took an estimated 93,000 fish per year, with a peak of 600,000 fish in 1877. By the 1890s, fish populations had already recorded a precipitous decline. Logging and grazing, which expose formerly forested land as bare ground, have had even greater impact on the populations of these fish. Due to the mountainous terrain and heavy precipitation in the Eel River watershed, erosion rates are particularly high. Much of the anadromous fish spawning habitat in the river system was covered by sediment or blocked by debris jams. Record flooding in 1955 and 1964, which destroyed or damaged large amounts of habitat along the Eel and its tributaries, was generally regarded as the final blow. After the 1964 flood, chinook salmon populations plunged to fewer than 10,000 per year.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Erosion",
+                  "text": "erosion"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "Anadromous fish populations have continued to decline since the 1960s; in 2010, only 3,500 salmon and steelhead returned to the river to spawn. However, with better land management practices in the watershed, salmon and steelhead runs have shown signs of recovery. In late 2012, high water in the Eel River attracted a run of over 30,000 fish, the largest on record since 1958. Since 2012, runs have fluctuated. While improved from the low point of 3,500 at the beginning of the decade, the runs have yet to again reach the high mark of over 30,000. From 2013 to 2014, 2016 to 2017 were between 15,000 and 25,000 while 2015, and 2018 to 2019 were between 9,000 and 15,000."
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "Other fishes",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "The river provides wildlife habitat for preservation of rare and endangered species including warm and cold freshwater habitat for fish migration and spawning. The river and its tributaries support at least 15 species of native freshwater fish. Major species include Pacific lamprey, Entosphenus tridentatus, formerly Lampetra tridentata, Sacramento sucker, threespine stickleback, Pacific staghorn sculpin, Coastrange sculpin and prickly sculpin. At least 16 species of non-native fish have been introduced to the river system. The non-native Sacramento pikeminnow is present; it competes with and preys on young salmonids.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Rare_species",
+                  "text": "rare"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Endangered_species",
+                  "text": "endangered species"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Pacific_lamprey",
+                  "text": "Pacific lamprey"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Catostomus",
+                  "text": "Sacramento sucker"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Threespine_stickleback",
+                  "text": "threespine stickleback"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Pacific_staghorn_sculpin",
+                  "text": "Pacific staghorn sculpin"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Coastrange_sculpin",
+                  "text": "Coastrange sculpin"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Cottus_asper",
+                  "text": "prickly sculpin"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Sacramento_pikeminnow",
+                  "text": "Sacramento pikeminnow"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "The Eel River has never contained true eels, but is named for the Pacific lamprey, an eel-shaped parasite that attaches itself to other fish during its ocean life-cycle. Like salmon and steelhead, lampreys are anadromous, meaning they live part of their life in the ocean but return to fresh water to spawn. They are Cyclostomes (Circle mouths), a primitive fish-like creature, and are not related to eels.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Anadromous",
+                  "text": "anadromous"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Cyclostomata",
+                  "text": "Cyclostomes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section",
+          "name": "Eel River estuary",
+          "has_parts": [
+            {
+              "type": "paragraph",
+              "value": "The Eel River forms a 7-mile (11 km) long estuary west of Fortuna, which has been identified as one of the most important and sensitive estuaries on the West Coast. The estuary consists of some 8,700 acres (3,500 ha) of tidal flats, perennial and seasonal wetlands, connected by 75 miles (121 km) of river channels and tidal sloughs. About 1,550 acres (630 ha) consist of undeveloped wetlands while 5,500 acres (2,200 ha) have been converted to agriculture. The estuary is the third-largest coastal wetland region in California, after the Sacramento–San Joaquin River Delta and the Salinas River estuaries in central California, forming an important habitat for various species of shorebirds, fish and mammals such as river otters and harbor seals. About 1,100 acres (450 ha) of the estuary are protected as the Eel River Estuary Preserve.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/Estuary",
+                  "text": "estuary"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Slough_(hydrology)",
+                  "text": "sloughs"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Sacramento–San_Joaquin_River_Delta",
+                  "text": "Sacramento–San Joaquin River Delta"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Salinas_River_(California)",
+                  "text": "Salinas River"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/North_American_river_otter",
+                  "text": "river otters"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/Harbor_seal",
+                  "text": "harbor seals"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "The Eel River estuary is recognized for protection by the California Bays and Estuaries Policy.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/California_Bays_and_Estuaries_Policy",
+                  "text": "California Bays and Estuaries Policy"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "value": "In 2018 CalTrout, along with other partners, announced they had received a grant of over $5M to revive the degraded estuary. The site of the project is the Eel River Estuary Preserve, formerly known as Connick Ranch. The Wildlands Conservancy acquired the land in 2008 with the goal of restoring the wetland system and provide public access to the scenic area.",
+              "links": [
+                {
+                  "url": "https://en.wikipedia.org/wiki/California_Trout",
+                  "text": "CalTrout"
+                },
+                {
+                  "url": "https://en.wikipedia.org/wiki/The_Wildlands_Conservancy",
+                  "text": "The Wildlands Conservancy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "name": "River modifications",
+      "has_parts": [
+        {
+          "type": "paragraph",
+          "value": "There are two hydroelectric dams on the Eel: 130-foot (40 m) Scott Dam, which forms Lake Pillsbury, and 50-foot (15 m) Cape Horn Dam, which forms Van Arsdale Reservoir just north of Potter Valley. At Cape Horn Dam, the majority of the water is diverted through a tunnel and hydroelectric plant, and then to the headwaters of the Russian River in Potter Valley and is known as the Potter Valley Project. Originally conceived in the late 1800s and built between 1906 and 1922, the project provides about 159,000 acre-feet (0.196 km) of additional water for the Russian River system for about 500,000 people in Mendocino and Sonoma Counties.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Hydroelectricity",
+              "text": "hydroelectric"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Dam",
+              "text": "dams"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Cape_Horn_Dam",
+              "text": "Cape Horn Dam"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Van_Arsdale_Reservoir",
+              "text": "Van Arsdale Reservoir"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Potter_Valley,_California",
+              "text": "Potter Valley"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Sonoma_County,_California",
+              "text": "Sonoma"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The Potter Valley Project has been argued by environmental groups to have significant impacts on the salmonid (Chinook and coho salmon and steelhead) populations of the basin. Although dam operators are required to maintain certain flows below the diversion during the dry season, these flows can be cut during exceptionally dry years, preventing salmonids from reaching certain spawning streams in the Eel River basin. Project water is disproportionately important to salmonids in the Eel River system as a whole because the water released from the bottom of Scott Dam is the only cold water available in the basin during the dry season. During July, August and September, temperatures in the lower Eel River occasionally hit 85 °F (29 °C) or higher, creating fatal conditions for these fish.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Salmonidae",
+              "text": "salmonid"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "In 1983, the Federal Energy Regulatory Commission relicensed the project under the condition that more water be provided to the Eel River during the dry season and less be diverted to the Russian River basin. Dam releases are now timed to mimic natural flows in the Eel River system. Occasional large \"blocks\" of water are also released from Scott Dam to help juvenile salmonids migrate to the sea before temperatures in the lower river become unsuitable for their passage. These conditions were revised in 2004, when stricter minimum release standards were established. In combination with drought in the early 21st century, average diversions through the project have decreased by about 69,000 acre-feet (0.085 km) for the period 2004 through 2010. In December 2013, due to record low levels of water in the Eel River and the associated dammed lakes, levels of fish and lampreys in the rivers were at lowest recorded levels, and Pacific Gas and Electric Company sought to have FERC change their operating license to permit even lower releases of water to the Eel until the drought eases. Under current agreements, the dams must release at least 100 cubic feet per second (2.8 m /s) beginning every year on December 1 to aid salmon migration.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission",
+              "text": "Federal Energy Regulatory Commission"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Federal_Energy_Regulatory_Commission",
+              "text": "FERC"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The federal United Western Investigation study in 1951 proposed multiple large dams on the wild North Coast rivers of California, including the Eel River. These dams would have been far bigger than those of the Potter Valley Project, and would create some of the largest reservoirs in California. The Army Corps of Engineers and Bureau of Reclamation both sought to build dams in the Eel River system which, starting in the 1960s was targeted as a potential new source for the California State Water Project. Major dams proposed in the watershed included ones at English Ridge, Bell Springs and Sequoia (Alderpoint) on the main stem, and the infamous Dos Rios on the Middle Fork. Dos Rios Dam would have flooded 110,000 acres (45,000 ha) of Mendocino County, creating a reservoir of 7.5 million acre-feet (9.3 km) –the largest in California, at nearly twice the size of Shasta Lake.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Shasta_Lake",
+              "text": "Shasta Lake"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "Water would have been diverted from English Ridge north to Dos Rios and through a 40-mile (64 km) tunnel to the offstream Glenn-Colusa reservoir in the Sacramento Valley, from which the water would travel by canal to the Sacramento River. An alternate proposal would have sent the water south from Dos Rios, through English Ridge and then a tunnel to Clear Lake, from which the water would flow down Cache Creek to the Sacramento River. From the beginning, these dams were heavily contested by local residents as well as by environmental groups seeking the protection of California's remaining wild rivers.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Offstream_reservoir",
+              "text": "offstream"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Clear_Lake_(California)",
+              "text": "Clear Lake"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Cache_Creek_(Sacramento_River)",
+              "text": "Cache Creek"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The great floods of 1955 and 1964 brought renewed interest in building large dams on the Eel River, especially in the case of the Army Corps of Engineers, which attempted to justify the construction of Dos Rios for flood control. However, among all the proposed dams on the Eel River, Dos Rios would have the lowest impact on flood control–a fact that the Army Corps took great pains to conceal, by exaggerating its economic justifications for the dam. When exposed, this would end up becoming the \"Achilles' heel of the project\". Meanwhile, the Bureau insisted that its first priority–English Ridge–should receive the first federal funding. As Marc Reisner describes in Cadillac Desert (1986), \"The feuding agencies were about to lock horns and starve over the first two dams on their priority list.\" By 1969, a strong opposition movement had formed, led by a Round Valley rancher named Richard Wilson, who had studied hydrology at Dartmouth College. Wilson calculated that Dos Rios would have reduced the 35-foot (11 m) flood crest of the 1964 flood at Fort Seward by less than a foot (0.3 m). Governor Ronald Reagan formally refused to authorize the project.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Marc_Reisner",
+              "text": "Marc Reisner"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Cadillac_Desert",
+              "text": "Cadillac Desert"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Dartmouth_College",
+              "text": "Dartmouth College"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "Despite Reagan's veto, the door to Eel River dams technically remained open. In early 1972, California state senator Peter H. Behr introduced a measure to create a state wild and scenic rivers system, which would protect many undeveloped North Coast rivers, including the Eel, from future damming. In the same year, senator Randolph Collier proposed a measure that would block dams in the Klamath and Trinity Rivers but \"permitted 'planning' for dams on the Eel River. Conservationists saw this as a backdoor attempt to resurrect Dos Rios Dam and endorsed the Behr bill.\" Collier's bill was supported by powerful agricultural interests in the Central Valley on the then-\"dubious claim\" that they would need the water from these rivers in the future. After the state legislature approved both bills, the final decision fell to Reagan, who signed the Behr bill, again in favor of the conservationists. However, Behr had been forced to compromise in order to get his bill approved from the state; as signed, it would only place a 12-year moratorium on planning for dams in the Eel River system.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Peter_H._Behr",
+              "text": "Peter H. Behr"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Randolph_Collier",
+              "text": "Randolph Collier"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Moratorium_(law)",
+              "text": "moratorium"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "Over the next several years, Reagan continued lobbying for increased protection of the Eel River system. In 1979, he requested the North Coast rivers be added to the National Wild and Scenic system. In 1981, well before Behr's moratorium expired, Secretary of the Interior Cecil Andrus granted federal protection to the Eel River system and 1,235 miles (1,988 km) of streams along the North Coast, succeeding state legislation and placing the river permanently off limits to new dams.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Cecil_Andrus",
+              "text": "Cecil Andrus"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "In November 2023, PG&E \"filed an application to federal regulators\" to demolish their two dams on the Eel. Deconstruction could begin as early as 2028, pending approvals. The dam projects have become unviable due to higher maintenance, reduced water flow as allowed by changed regulations, and seismic risks to the dams."
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "name": "Recreation",
+      "has_parts": [
+        {
+          "type": "paragraph",
+          "value": "The four forks of the Eel and their tributaries provide opportunities for whitewater kayaking and rafting on their upper sections. There is a 12-mile (19 km) class IV–V run between the Scott and Van Arsdale dams. A popular run is from Dos Rios to Alderpoint with Class II–III rapids, taking three to four days to run, depending on how many side tributaries are explored. From Alderpoint to Eel Rock is a class I–II float during June, with many beaches suitable for camping. Below Eel Rock the ocean winds make boating difficult starting in the early afternoon.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Whitewater_kayaking",
+              "text": "whitewater kayaking"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/International_Scale_of_River_Difficulty",
+              "text": "class IV–V run"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The South Fork is a class III–IV run in its upper section between Branscomb and Cummings, with a waterfall that needs to be portaged. After the South Fork turns due north at Cummings it is mainly a class II–III, changing mostly to a class II run below Piercy. The Middle Eel has a good run from the confluence with the Black Butte River to Coal Miners Falls, which is portaged by all but experts. The Van Duzen River also has some class II–III runs beginning below Goat Rock. The North Fork is the most pristine of the tributaries, but is difficult to enter because of its remote location. There is a Class III run in the reach between Hulls Creek and Mina Road.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Branscomb,_California",
+              "text": "Branscomb"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Cummings,_Mendocino_County,_California",
+              "text": "Cummings"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Black_Butte_River",
+              "text": "Black Butte River"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "There are also many miles of river suitable for flatwater boating in the downstream sections of both the mainstem Eel and the South Fork. Humboldt Redwoods State Park leads paddle trips along that stretch of the river. There is good fishing for Chinook salmon and steelhead in the lower river, and rainbow trout are found above Lake Pillsbury. Introduced pikeminnow, in conjunction with the diminished flows due to the Potter Valley Project water diversion, have taken a significant toll on the native fish population below Van Arsdale Dam. The river can be closed to fishing in some years after October 1 if flows are insufficient for migrating salmon and steelhead.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Chinook_salmon",
+              "text": "Chinook salmon"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Rainbow_trout",
+              "text": "steelhead"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Pikeminnow",
+              "text": "pikeminnow"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "value": "The Eel River watershed includes Admiral William Standley State Recreation Area, Smithe Redwoods State Recreation Area, Standish-Hickey State Recreation Area, Humboldt Redwoods State Park, Richardson Grove State Park, Six Rivers National Forest, and Mendocino National Forest, which are popular for camping and hiking. There is wilderness camping above Lake Pillsbury on both branches, the Rice Fork and Eel River, (also known as South Eel because it is south of the lake), which have numerous swimming holes and camp sites. The Eel River Canyon Preserve includes the Grand Canyon of the Eel River which is home to dozens of endangered species and rare wildlife. The park will include the proposed Great Redwood Trail.",
+          "links": [
+            {
+              "url": "https://en.wikipedia.org/wiki/Admiral_William_Standley_State_Recreation_Area",
+              "text": "Admiral William Standley State Recreation Area"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Richardson_Grove_State_Park",
+              "text": "Richardson Grove State Park"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Six_Rivers_National_Forest",
+              "text": "Six Rivers National Forest"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Mendocino_National_Forest",
+              "text": "Mendocino National Forest"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Rice_Fork",
+              "text": "Rice Fork"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Eel_River_Canyon_Preserve?action=edit&redlink=1",
+              "text": "Eel River Canyon Preserve"
+            },
+            {
+              "url": "https://en.wikipedia.org/wiki/Great_Redwood_Trail",
+              "text": "Great Redwood Trail"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

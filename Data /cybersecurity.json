@@ -1,0 +1,29 @@
+{
+  "title": "Cybersecurity",
+  "introduction": "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.",
+  "sections": [
+    {
+      "title": "Types of Cyber Threats",
+      "content": "- Malware (viruses, worms, trojans, ransomware)\n- Phishing and social engineering\n- Man-in-the-middle attacks\n- Denial-of-service (DoS) attacks\n- SQL injection\n- Zero-day exploits"
+    },
+    {
+      "title": "Cybersecurity Domains",
+      "content": "1. Network Security\n2. Application Security\n3. Information Security\n4. Operational Security\n5. Disaster Recovery and Business Continuity\n6. End-User Education"
+    },
+    {
+      "title": "Best Practices",
+      "content": "- Regular software updates\n- Strong password policies\n- Multi-factor authentication\n- Regular data backups\n- Employee training and awareness\n- Incident response planning"
+    },
+    {
+      "title": "Emerging Trends",
+      "content": "- AI and machine learning in threat detection\n- Zero Trust security model\n- Cloud security\n- IoT security challenges\n- Quantum cryptography"
+    }
+  ],
+  "commonVulnerabilities": ["Unpatched Software", "Weak Credentials", "Insider Threats", "Cloud Misconfigurations"],
+  "securityFrameworks": ["NIST Cybersecurity Framework", "ISO 27001", "CIS Controls", "GDPR", "HIPAA"],
+  "cyberAttackStatistics": {
+    "averageCostOfDataBreach": "$4.24 million (2021)",
+    "timeToIdentifyABreach": "212 days (average)",
+    "mostAttackedIndustry": "Healthcare"
+  }
+}

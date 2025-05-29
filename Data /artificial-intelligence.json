@@ -1,0 +1,25 @@
+{
+  "title": "Artificial Intelligence",
+  "introduction": "Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.",
+  "sections": [
+    {
+      "title": "History",
+      "content": "The concept of AI dates back to ancient times, but the field as we know it began in the mid-20th century with the work of Alan Turing and others. The term 'Artificial Intelligence' was first coined in 1956 at the Dartmouth Conference."
+    },
+    {
+      "title": "Types of AI",
+      "content": "AI can be categorized into three types: Narrow AI (designed for specific tasks), General AI (can understand and learn any intellectual task that a human can), and Super AI (surpasses human intelligence)."
+    },
+    {
+      "title": "Applications",
+      "content": "AI is used in various fields including healthcare (diagnosis, drug discovery), finance (fraud detection, algorithmic trading), transportation (self-driving cars), and customer service (chatbots)."
+    },
+    {
+      "title": "Ethical Considerations",
+      "content": "AI raises important ethical questions about privacy, bias, job displacement, and the potential for autonomous weapons. There are ongoing discussions about how to develop AI responsibly."
+    }
+  ],
+  "keyFigures": ["Alan Turing", "John McCarthy", "Geoffrey Hinton", "Yoshua Bengio", "Yann LeCun"],
+  "yearEstablished": 1956,
+  "relatedFields": ["Machine Learning", "Neural Networks", "Robotics", "Computer Vision", "Natural Language Processing"]
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LearnHub - The Free Encyclopedia</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1><i class="fas fa-book-open"></i> LearnHub</h1>
+            </div>
+            <nav>
+                <ul id="mainNav">
+                    <li><a href="#" class="active" data-page="home">Home</a></li>
+                    <!-- Dynamic navigation will be inserted here by JavaScript -->
+                </ul>
+            </nav>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search LearnHub">
+                <button id="searchBtn"><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="content-wrapper">
+            <article id="content">
+                <h1>Welcome to LearnHub</h1>
+                <p>Loading content...</p>
+            </article>
+            <aside class="sidebar">
+                <div class="card">
+                    <h3>Recent Changes</h3>
+                    <ul id="recentChanges">
+                        <li>Loading recent changes...</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>Quick Links</h3>
+                    <ul id="quickLinks">
+                        <!-- Dynamic quick links will be inserted here by JavaScript -->
+                    </ul>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 LearnHub. The Free Encyclopedia.</p>
+            <div class="footer-links">
+                <a href="#">About</a>
+                <a href="#">Contact</a>
+                <a href="#">Privacy Policy</a>
+                <a href="#">Terms of Use</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

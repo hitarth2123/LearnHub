@@ -1,0 +1,584 @@
+{
+    "name": "IPhone 16",
+    "identifier": 77829756,
+    "abstract": "The iPhone 16 and iPhone 16 Plus are upcoming smartphones designed, developed, and marketed by Apple Inc. They are the eighteenth-generation iPhones, succeeding the iPhone 15 and iPhone 15 Plus. The devices were unveiled alongside the higher-priced iPhone 16 Pro and 16 Pro Max during the September 9, 2024 Apple Event at Apple Park in Cupertino, California. Pre-orders are set to begin on September 13, 2024.",
+    "version": {
+      "identifier": 1245491669,
+      "comment": "/* Design */Fixed citation and added formats",
+      "tags": [
+        "mobile edit",
+        "mobile web edit",
+        "advanced mobile edit"
+      ],
+      "scores": {
+        "revertrisk": {
+          "probability": {
+            "false": 0.8452306389808655,
+            "true": 0.15476936101913452
+          }
+        }
+      },
+      "editor": {
+        "identifier": 47722236,
+        "name": "PEPSI697",
+        "edit_count": 5410,
+        "groups": [
+          "extendedconfirmed",
+          "*",
+          "user",
+          "autoconfirmed"
+        ],
+        "date_started": "2024-04-19T12:48:31Z"
+      },
+      "number_of_characters": 10517,
+      "size": {
+        "value": 10522,
+        "unit_text": "B"
+      },
+      "maintenance_tags": {}
+    },
+    "event": {
+      "identifier": "62a7854d-e3b2-4a9d-8ed0-99a7ec92e792",
+      "type": "update",
+      "date_created": "2024-09-13T14:46:13.969321Z",
+      "date_published": "2024-09-13T14:46:44.458073Z"
+    },
+    "url": "https://en.wikipedia.org/wiki/IPhone_16",
+    "date_created": "2024-09-09T19:17:52Z",
+    "date_modified": "2024-09-13T08:41:37Z",
+    "is_part_of": {
+      "identifier": "enwiki",
+      "url": "https://en.wikipedia.org"
+    },
+    "in_language": {
+      "identifier": "en"
+    },
+    "image": {
+      "content_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/IPhone_16_Vector.svg",
+      "width": 360,
+      "height": 730
+    },
+    "license": [
+      {
+        "name": "Creative Commons Attribution-ShareAlike 4.0",
+        "identifier": "CC-BY-SA-4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ],
+    "description": "2024 smartphone by Apple",
+    "infoboxes": [
+      {
+        "type": "infobox",
+        "name": "Infobox mobile phone",
+        "has_parts": [
+          {
+            "type": "section",
+            "name": "iPhone 16 iPhone 16 Plus",
+            "has_parts": [
+              {
+                "type": "image",
+                "images": [
+                  {
+                    "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/IPhone_16_%28logo%29.svg/162px-IPhone_16_%28logo%29.svg.png",
+                    "width": 162,
+                    "height": 162
+                  },
+                  {
+                    "content_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/IPhone_16_Plus_%28logo%29.svg/230px-IPhone_16_Plus_%28logo%29.svg.png",
+                    "width": 230,
+                    "height": 230
+                  }
+                ]
+              },
+              {
+                "type": "image",
+                "value": "iPhone 16 in Ultramarine",
+                "images": [
+                  {
+                    "content_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/IPhone_16_Vector.svg/220px-IPhone_16_Vector.svg.png",
+                    "width": 220,
+                    "height": 220,
+                    "caption": "iPhone 16 in Ultramarine"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Brand",
+                "value": "Apple Inc.",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Brand",
+                    "text": "Brand"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+                    "text": "Apple Inc."
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Manufacturer",
+                "value": "Foxconn",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country",
+                    "text": "Manufacturer"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Foxconn",
+                    "text": "Foxconn"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Slogan",
+                "value": "Hello, Apple Intelligence .",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Slogan",
+                    "text": "Slogan"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Apple_Intelligence",
+                    "text": "Apple Intelligence"
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "name": "Colors",
+                "values": [
+                  "  -   Ultramarine\n  -   Pink\n  -   Teal\n  -   White\n  -   Black\n"
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Generation",
+                "value": "18th"
+              },
+              {
+                "type": "field",
+                "name": "Compatible networks",
+                "value": "2G GSM / EDGE, 3G UMTS / HSPA+, 4G LTE, 5G NR",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Comparison_of_mobile_phone_standards",
+                    "text": "Compatible networks"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/2G",
+                    "text": "2G"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/GSM",
+                    "text": "GSM"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/EDGE",
+                    "text": "EDGE"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/3G",
+                    "text": "3G"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/UMTS",
+                    "text": "UMTS"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/HSPA+",
+                    "text": "HSPA+"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/4G",
+                    "text": "4G"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/LTE_(telecommunications)",
+                    "text": "LTE"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/5G",
+                    "text": "5G"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/5G_NR",
+                    "text": "NR"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "First released",
+                "value": "September 9, 2024"
+              },
+              {
+                "type": "list",
+                "name": "Availability by region",
+                "value": "September 20, 2024 September 27, 2024",
+                "values": [
+                  "  -  Australia\n  -  Austria\n  -  Bahrain\n  -  Belgium\n  -  Canada\n  -  China\n  -  Czech Republic\n  -  Denmark\n  -  Finland\n  -  France\n  -  Germany\n  -  Greece\n  -  Hong Kong\n  -  Hungary\n  -  India\n  -  Italy\n  -  Ireland\n  -  Japan\n  -  Luxembourg\n  -  Malaysia\n  -  Mexico\n  -  Netherlands\n  -  New Zealand\n  -  Norway\n  -  Oman\n  -  Poland\n  -  Portugal\n  -  Qatar\n  -  Saudi Arabia\n  -  Singapore\n  -  Slovakia\n  -  South Korea\n  -  Spain\n  -  Sweden\n  -  Switzerland\n  -  Taiwan\n  -  Thailand\n  -  Turkey\n  -  United Arab Emirates\n  -  United Kingdom\n  -  United States\n",
+                  "  -  Brazil\n \n  -  Kuwait\n \n  -  Vietnam\n"
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Predecessor",
+                "value": "iPhone 15 / 15 Plus",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/IPhone_15",
+                    "text": "iPhone 15 / 15 Plus"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Related",
+                "value": "iPhone 16 Pro / iPhone 16 Pro Max",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/IPhone_16_Pro",
+                    "text": "iPhone 16 Pro / iPhone 16 Pro Max"
+                  }
+                ]
+              },
+              {
+                "type": "list",
+                "name": "Dimensions",
+                "values": [
+                  "  - 16: H: 147.6 mm (5.81 in)  W: 71.6 mm (2.82 in)  D: 7.8 mm (0.31 in)\n  - 16 Plus: H: 160.9 mm (6.33 in)  W: 77.8 mm (3.06 in)  D: 7.8 mm (0.31 in)\n"
+                ]
+              },
+              {
+                "type": "list",
+                "name": "Weight",
+                "values": [
+                  "  - 16: 170 g (6.0 oz)\n  - 16 Plus: 199 g (7.0 oz)\n"
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Operating system",
+                "value": "Original: iOS 18.0",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Mobile_operating_system",
+                    "text": "Operating system"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/IOS_18",
+                    "text": "iOS 18.0"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "System-on-chip",
+                "value": "Apple A18",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/System_on_a_chip",
+                    "text": "System-on-chip"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Apple_A18",
+                    "text": "Apple A18"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "CPU",
+                "value": "Hexa-core (2 high-performance ??? GHz + 4 high-efficiency ??? GHz)",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Central_processing_unit",
+                    "text": "CPU"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "GPU",
+                "value": "Apple-designed 5-core",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Graphics_processing_unit",
+                    "text": "GPU"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Modem",
+                "value": "Qualcomm Snapdragon X75 5G",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Modem",
+                    "text": "Modem"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Qualcomm",
+                    "text": "Qualcomm"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/IPhone_16#cite_note-1"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Memory",
+                "value": "8 GB LPDDR5X",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/LPDDR5X",
+                    "text": "LPDDR5X"
+                  }
+                ]
+              },
+              {
+                "type": "field",
+                "name": "Connectivity",
+                "value": "Wi-Fi 7 (802.11a/b/g/n/ac/ax/be) dual-band Bluetooth 5.3 (A2DP, LE) Ultra-wideband (UWB) Thread USB-C: USB 2.0 480 Mbit/s",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Wi-Fi_7",
+                    "text": "Wi-Fi 7"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Bluetooth_5.3",
+                    "text": "Bluetooth 5.3"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/A2DP",
+                    "text": "A2DP"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Bluetooth_LE",
+                    "text": "LE"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Ultra-wideband",
+                    "text": "Ultra-wideband"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Thread_(network_protocol)",
+                    "text": "Thread"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/USB-C",
+                    "text": "USB-C"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/USB#USB_2.0",
+                    "text": "USB 2.0"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "type": "section",
+        "name": "Abstract",
+        "has_parts": [
+          {
+            "type": "paragraph",
+            "value": "The iPhone 16 and iPhone 16 Plus are upcoming smartphones designed, developed, and marketed by Apple Inc. They are the eighteenth -generation iPhones, succeeding the iPhone 15 and iPhone 15 Plus. The devices were unveiled alongside the higher-priced iPhone 16 Pro and 16 Pro Max during the September 9, 2024 Apple Event at Apple Park in Cupertino, California. Pre-orders are set to begin on September 13, 2024.",
+            "links": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Smartphone",
+                "text": "smartphones"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+                "text": "Apple Inc"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/List_of_iPhone_models",
+                "text": "eighteenth"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/IPhone",
+                "text": "iPhones"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/IPhone_15",
+                "text": "iPhone 15 and iPhone 15 Plus"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/IPhone_16_Pro",
+                "text": "iPhone 16 Pro and 16 Pro Max"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/List_of_Apple_Inc._media_events",
+                "text": "Apple Event"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Apple_Park",
+                "text": "Apple Park"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Cupertino,_California",
+                "text": "Cupertino, California"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "name": "History",
+        "has_parts": [
+          {
+            "type": "paragraph",
+            "value": "The devices were unveiled during an event on September 9, 2024, marking the first time an iPhone release had been announced on a Monday."
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "name": "Design",
+        "has_parts": [
+          {
+            "type": "section",
+            "name": "Display",
+            "has_parts": [
+              {
+                "type": "paragraph",
+                "value": "The iPhone 16 and iPhone 16 Plus will retain their screen sizes of 6.1 inches and 6.7 inches, respectively. Additionally, they will feature a slightly taller aspect ratio, changing from 16.5:9 (11:6) to 16.6:9 (83:45)."
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "name": "Colors",
+            "has_parts": [
+              {
+                "type": "paragraph",
+                "value": "The iPhone 16 and 16 Plus will come in five new different colors, including: Pink, Black, Ultramarine, Teal and White."
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "name": "Hardware",
+            "has_parts": [
+              {
+                "type": "paragraph",
+                "value": "The iPhone 16 will be equipped with the new A18 chip, designed specifically for this device. The chip is optimized for running large generative models and features a neural engine that is twice as fast as its predecessor.",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Generative_model",
+                    "text": "generative models"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Neural_Engine",
+                    "text": "neural engine"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "value": "The iPhone 16 will include a new 48-megapixel camera, offering four times the resolution of the iPhone 14. It also features a new ultrawide camera that will allow for more light capture in low-light situations as well as automatic focus.",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/IPhone_14",
+                    "text": "iPhone 14"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "value": "All iPhone 16 models have an improved thermal design. The main logic board has been updated, centralizing chip placement and optimizing the surrounding architecture. The recycled aluminum substructure dissipates heat for 30 percent higher sustained performance for gaming."
+              },
+              {
+                "type": "paragraph",
+                "value": "Qualcomm's latest Snapdragon X75 modem brings several improvements, including 5G Advanced support, lower power consumption, and enhanced 5G carrier aggregation for faster upload speeds. These upgrades should increase mobile connectivity by over 20%."
+              },
+              {
+                "type": "paragraph",
+                "value": "Every model in the iPhone 16 lineup has support for WiFi 7.",
+                "links": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/WiFi_7",
+                    "text": "WiFi 7"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "name": "iPhone 16 battery",
+            "has_parts": [
+              {
+                "type": "paragraph",
+                "value": "The iPhone 16 has been upgraded in terms of battery capacity."
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "name": "Enclosure",
+            "has_parts": [
+              {
+                "type": "paragraph",
+                "value": "The enclosure will be made up of 85% recycled content."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "name": "Software",
+        "has_parts": [
+          {
+            "type": "paragraph",
+            "value": "The iPhone 16 also comes with the new Apple Intelligence, a new line of AI, branching off of Siri, Apple's AI assistant. Siri has gotten better, with more features."
+          }
+        ]
+      },
+      {
+        "type": "section",
+        "name": "Specifications",
+        "has_parts": [
+          {
+            "type": "paragraph",
+            "value": "The iPhone 16 and 16 Plus will have a vertical camera layout, similar to the iPhone 12, as opposed to the diagonal layout for iPhone 13, iPhone 14, and iPhone 15. The iPhone 16 will have a starting price of $799, while the iPhone 16 Plus will start at $899. The USB Type-C port is used, albeit with USB 2.0 data transfer speeds up to 480Mb/s.",
+            "links": [
+              {
+                "url": "https://en.wikipedia.org/wiki/IPhone_12",
+                "text": "iPhone 12"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/IPhone_13",
+                "text": "iPhone 13"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/IPhone_14",
+                "text": "iPhone 14"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/IPhone_15",
+                "text": "iPhone 15"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/USB#USB_2.0",
+                "text": "USB 2.0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
